@@ -1,3 +1,7 @@
+## Intro:
+
+This is an implementation of the style transfer algorithm (https://arxiv.org/pdf/1508.06576.pdf) in tensorflow without using Keras API's.
+
 ## Description of files:
 1. vgg19_style.py : code for loading the network parameters and creating the feature maps.
 2. utils.py : functions for loading images and computing the gram matrix 
