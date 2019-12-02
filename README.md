@@ -14,4 +14,4 @@ To run the code for style transfer, change paths to the style and content images
 
 This will automatically load the network and perform the style transfer
 
-There is not specific dataset for this study. Any image of you choice can be used for the content image, and any artistic image can be used as the style image
+There is no specific dataset for this study. Any image of you choice can be used for the content image, and any artistic image can be used as the style image
