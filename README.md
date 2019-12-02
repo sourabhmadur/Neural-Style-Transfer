@@ -6,7 +6,7 @@
 
 ## Instructions for running:
 
-To run the code for style transfer, in the style.py file, change paths to the style and content images. Then simply run the code using the command:
+To run the code for style transfer, change paths to the style and content images in style.py. Then simply run the code using the command:
 
 > python style.py
 
